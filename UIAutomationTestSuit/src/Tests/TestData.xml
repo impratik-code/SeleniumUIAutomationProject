@@ -1,0 +1,16 @@
+<?xml-model href=""?>
+<testdata>
+    <username>PratikA</username>
+    <password>password123</password>
+    <firstName>Pratik</firstName>
+    <lastName>Ahire</lastName>
+    <email>PratikA@example.com</email>
+    <company>Example Company</company>
+    <phoneNo>1234567890</phoneNo>
+    <unitCount>11 - 100</unitCount>
+    <jobtitle>Software Engineer In Test</jobtitle>
+    <propertyName>EON IT Park</propertyName>
+    <propertyURL>www.EON.com</propertyURL>
+    <category>Login</category>
+    <message>Text message in Text Area</message>
+</testdata>
